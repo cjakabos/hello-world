@@ -32,7 +32,7 @@ Hope this might be useful to someone! :-)
   </tr>
   <tr>
         <th><p align="center">
-           <a href="./project_4"><img src="./project_4/overview.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="./project_4"><img src="./project_4/overview.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Project 4
            <br><a href="./project_4" name="p4_code">(code)</a>
         </p>
