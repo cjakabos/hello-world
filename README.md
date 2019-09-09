@@ -23,21 +23,21 @@ Hope this might be useful to someone! :-)
            <br><a href="./project_2" name="p2_code">(code)</a>
         </p>
     </th>
-       <th><p align="center">
+        <th><p align="center">
            <a href="./project_3"><img src="./project_3/overview.gif" alt="Overview" width="60%" height="60%"></a>
            <br>Project 3
            <br><a href="./project_3" name="p3_code">(code)</a>
         </p>
     </th>
+  </tr>
+  <tr>
         <th><p align="center">
            <a href="./project_4"><img src="./project_3/overview.gif" alt="Overview" width="60%" height="60%"></a>
            <br>Project 4
            <br><a href="./project_4" name="p4_code">(code)</a>
         </p>
     </th>
-  </tr>
-  <tr>
-    <th><p align="center">
+        <th><p align="center">
            <a href="./project_5"><img src="./project_5/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
            <br>Project 5
            <br><a href="./project_5" name="p5_code">(code)</a>
@@ -49,6 +49,8 @@ Hope this might be useful to someone! :-)
            <br><a href="./project_6" name="p6_code">(code)</a>
         </p>
     </th>
+  </tr>
+  <tr>
     <th><p align="center">
            <a href="./project_7"><img src="./project_7/img/overview.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Project 7
@@ -61,30 +63,10 @@ Hope this might be useful to someone! :-)
            <br><a href="./project_8" name="p8_code">(code)</a>
         </p>
     </th>
-  </tr>
-  <tr>
     <th><p align="center">
            <a href="./project_9"><img src="./project_9/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
            <br>Project 9
            <br><a href="./project_9" name="p9_code">(code)</a>
-        </p>
-    </th>
-    <th><p align="center">
-           <a href="./project_10"><img src="./project_10/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
-           <br>Project 10
-           <br><a href="./project_10" name="p10_code">(code)</a>
-        </p>
-    </th>
-   <th><p align="center">
-           <a href="./project_11"><img src="./project_11/overview.jpg" alt="Overview" width="60%" height="60%"></a>
-           <br>Project 11
-           <br><a href="./project_11" name="p11_code">(code)</a>
-        </p>
-    </th>
-    <th><p align="center">
-          <a href="./project_12"><img src="./project_12/img/overview.jpg" alt="Overview" width="60%" height="60%"></a>
-           <br>Project 12
-           <br><a href="./project_12" name="p12_code">(code)</a>
         </p>
     </th>
   </tr>
