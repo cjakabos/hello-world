@@ -24,7 +24,7 @@ Hope this might be useful to someone! :-)
         </p>
     </th>
        <th><p align="center">
-           <a href="./project_3"><img src="./project_3/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="./project_3"><img src="./project_3/overview.gif" alt="Overview" width="60%" height="60%"></a>
            <br>Project 3
            <br><a href="./project_3" name="p3_code">(code)</a>
         </p>
