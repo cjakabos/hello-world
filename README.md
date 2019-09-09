@@ -18,13 +18,13 @@ Hope this might be useful to someone! :-)
       </p>
     </th>
         <th><p align="center">
-           <a href="./project_2"><img src="./project_2/overview.gif" alt="Overview" width="80%" height="80%"></a>
+           <a href="./project_2"><img src="./project_2/overview.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Project 2
            <br><a href="./project_2" name="p2_code">(code)</a>
         </p>
     </th>
         <th><p align="center">
-           <a href="./project_3"><img src="./project_3/overview.gif" alt="Overview" width="80%" height="80%"></a>
+           <a href="./project_3"><img src="./project_3/overview.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Project 3
            <br><a href="./project_3" name="p3_code">(code)</a>
         </p>
