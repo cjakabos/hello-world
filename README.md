@@ -6,7 +6,7 @@ Hope this might be useful to someone! :-)
 
 All the results and extra certificates can be found here:
 
-[edX Micromaster Program](https://credentials.edx.org/records/programs/a9cbdeb65fc044ef97f79ed605a149db/)
+[edX Micromaster Program](https://credentials.edx.org/records/programs/shared/aeb398577a5c4941aaafc6133845c9d2/)
 
 [Robotics: Vision Intelligence and Machine Learning - certificate by University of Pennsylvania](https://courses.edx.org/certificates/cebbf84bc3d549bca3e86871f49b7917)
 
