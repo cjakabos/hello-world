@@ -4,6 +4,16 @@ In this repository I will share the **source code** of all the projects of my re
 
 Hope this might be useful to someone! :-)
 
+All the results and extra certificates can be found here:
+
+[edX Micromaster Program](https://credentials.edx.org/records/programs/a9cbdeb65fc044ef97f79ed605a149db/)
+
+[Robotics: Vision Intelligence and Machine Learning - certificate by University of Pennsylvania](https://courses.edx.org/certificates/cebbf84bc3d549bca3e86871f49b7917)
+
+[Intermediate C++ - certificate by Microsoft](https://courses.edx.org/certificates/daf8897c283c43f6a635eb8228dff1dc)
+
+[Advanced C++ - certificate by Microsoft](https://courses.edx.org/certificates/d7c3c0aea54d4a86971d8b4652822af0)
+
 ## Overview
 
 ### Projects
