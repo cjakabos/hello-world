@@ -18,9 +18,9 @@ All the results and extra certificates can be found here:
 ### Projects
 Main project
       <p align="center">
-           <a href="./main_project"><img src="./images/track_example.JPG" alt="Overview" width="80%" height="80%"></a>
+           <a href="./main_project"><img src="./images/view_main.png" alt="Overview" width="60%" height="60%"></a>
            <br>Project 1
-           <br><a href="./main_project" name="main_project">(code)</a>
+           <br><a href="./main_project" name="main project code">(code)</a>
       </p>
 ### Projects
 
