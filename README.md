@@ -15,14 +15,14 @@ All the results and extra certificates can be found here:
 [Advanced C++ - certificate by Microsoft](https://courses.edx.org/certificates/d7c3c0aea54d4a86971d8b4652822af0)
 
 ## Overview
-### Projects
-Main project
+### Main Project
+Main project is a self driving car in virtual environment. Physical equivalent is under development.
       <p align="center">
            <a href="./main_project"><img src="./images/view_main.png" alt="Overview" width="60%" height="60%"></a>
            <br>Project 1
            <br><a href="./main_project" name="main project code">(code)</a>
       </p>
-### Projects
+### Smaller projects
 
 <table style="width:100%">
   <tr>
