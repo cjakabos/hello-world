@@ -21,7 +21,7 @@ is identintified, the full image without white mask is checked for another car, 
 A near and far point are used in order to describe the track in front of the kiwi car. These two points are arrived at through a number of steps, finding the cones on the track, fitting curves to the detected cones and placing the points given the curves.
 
 <p align="center">
-  <a href="../images"><img src="../image/track_example.JPG" alt="Overview" width="100%" height="100%"></a>
+  <a href="../images"><img src="../images/track_example.JPG" alt="Overview" width="100%" height="100%"></a>
 </p>
 
 #### 2.1.1 Track detection
