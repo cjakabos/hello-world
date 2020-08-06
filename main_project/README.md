@@ -102,7 +102,7 @@ It receives information from the perception part. It gets the distance to anothe
 ### 4 Virtual testing
 The virtual test cases were developed in a way to be able to test all scenarios in one single simulation session. The standard track was modified with an intersection part at the upper part of the figure. The starting position of the ego vehicle is represented by the blue rectangle and it starts in an intersection. The representation of the slower vehicle in task 2 is the green rectangle and it is called Kiwi two, while the observed vehicle in task 3 crossing scenario is the red rectangle and it is called Kiwi three.
 <p align="center">
-  <a href="../images/track_example.JPG"><img src="../images/track_example.JPG" alt="Overview" width="60%" height="60%"></a>
+  <a href="../images/map.JPG"><img src="../images/map.JPG" alt="Overview" width="60%" height="60%"></a>
 </p>
 
 ### 5 Running the project
