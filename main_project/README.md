@@ -20,6 +20,10 @@ is identintified, the full image without white mask is checked for another car, 
 ### 2.1 Track detection
 A near and far point are used in order to describe the track in front of the kiwi car. These two points are arrived at through a number of steps, finding the cones on the track, fitting curves to the detected cones and placing the points given the curves.
 
+<p align="center">
+  <a href="../images"><img src="../image/track_example.JPG" alt="Overview" width="100%" height="100%"></a>
+</p>
+
 #### 2.1.1 Track detection
 First, the top part of the image is removed, as it is outside of the track and the misdetections can be reduced for the vision algorithm. For the same reasons  a white box is printed in the area of the ego kiwi.  Secondly, the image is blurred to remove noise and select all parts of the image that lies in a given color range (blue or yellow, depending on cones). Thirdly, the identified cones are gathered and after removing some smaller components, find all the bounding boxes of the leftover isolated components. Lastly, the bounding boxes that do not match certain criteria are filtered out. These criteria constrain the size, shape and position. The centres of these bounding boxes are used for curve fitting.
 
