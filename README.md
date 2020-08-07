@@ -20,7 +20,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
       <p align="center">
            <a href="./main_project"><img src="./images/view_main.png" alt="Overview" width="50%" height="50%"></a>
            <br>Main project - self driving car
-           <br><a href="./main_project" name="Code in C++ and Python/OpenCV">(code)</a>
+           <br><a href="./main_project" name="Code in C++ and Python/OpenCV">(Code in C++ and Python/OpenCV)</a>
       </p>
 ### Smaller projects
 
