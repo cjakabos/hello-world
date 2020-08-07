@@ -66,26 +66,6 @@ Main project is a self driving car in virtual environment. Physical equivalent i
         </p>
     </th>
   </tr>
-  <tr>
-    <th><p align="center">
-           <a href="./project_7"><img src="./project_7/img/overview.jpg" alt="Overview" width="60%" height="60%"></a>
-           <br>Project 7
-           <br><a href="./project_7" name="p7_code">(code)</a>
-        </p>
-    </th>
-    <th><p align="center">
-           <a href="./project_8"><img src="./project_8/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
-           <br>Project 8
-           <br><a href="./project_8" name="p8_code">(code)</a>
-        </p>
-    </th>
-    <th><p align="center">
-           <a href="./project_9"><img src="./project_9/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
-           <br>Project 9
-           <br><a href="./project_9" name="p9_code">(code)</a>
-        </p>
-    </th>
-  </tr>
 </table>
 
 --- 
@@ -114,33 +94,3 @@ Main project is a self driving car in virtual environment. Physical equivalent i
 #### [Project 6](project_6)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
-
-#### [Project 7](project_7)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
- 
-#### [Project 8](project_8)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
- 
-#### [Project 9](project_9)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
- 
-#### [Project 10](project_10)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
-
-#### [Project 11](project_11)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
-
-#### [Project 12](project_12)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
-
-
- 
-<p align="center">
-  <img src="https://s3.amazonaws.com/s3-blogs.mentor.com/mentorautomotive/files/2016/07/ADAS-cars-Adobe-106263301-520x378.jpg" width="400">
-</p>
