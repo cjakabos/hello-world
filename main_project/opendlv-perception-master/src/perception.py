@@ -281,7 +281,7 @@ def getKiwiCar(image, halt, cutPosX, cutPosY):
         if (h > 30 and w > 60 and w / h > 1.5):
 
             kiwiDistanceX = cutPosX + x - 1280/2
-            kiwiDistanceY = 720 - cutPosY - h
+            kiwiDistanceY = 720 - cutPosY - y
 
 
             cv.rectangle(image,(x,y),(x+w,y+h),(0,255,0),-1)
