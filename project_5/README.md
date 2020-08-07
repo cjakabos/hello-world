@@ -10,13 +10,13 @@ Once the end point is reached, the process stops (or gives message if end is not
 When the path is found it is plotted together with the grids of wall (as noted before, at grid border wall uses both neighbors grids, thus the intersection of the shortest path and grids sometimes, but in reality the wall is away from the edge of grid), see “Grid map” window. Blue dot is the start position, black dot is the end and the path is the green dots.
 
 <p align="center">
-  <a href="../images/solution.png"><img src="../images/solution.png" alt="Overview" width="100%" height="100%"></a>
+  <a href="./images/solution.png"><img src="./images/solution.png" alt="Overview" width="100%" height="100%"></a>
 </p>
 
 At the part II of the script the control is done based on the calculated shortest path from part I. First, the nearest node on the path to the kiwi position is calculated, then the next node on the path is set as an aim point for  “Simplest aim point model” from the lecture material:
 
 <p align="center">
-  <a href="../images/model.png"><img src="../images/model.png" alt="Overview" width="100%" height="100%"></a>
+  <a href="./images/model.png"><img src="./images/model.png" alt="Overview" width="100%" height="100%"></a>
 </p>
  
 Thus the ground steering δ is calculated (k was chosen to 1.0 after some tuning) and requested. The speed request is set constant during the whole simulation. The path following robots can be observed at the “Global map” window, where the wall positions are plotted with robot itself. The room is esimated to be reasonable size (around 6x6m), since OpenCV takes the integer values as pixel size, everything is scaled 100x to be normally visible (with scaleFactor variable). Once the end point is reached the message is sent to the user to stop the program.
