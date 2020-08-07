@@ -48,7 +48,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
   </tr>
   <tr>
         <th><p align="center">
-           <a href="./project_4"><img src="./project_4/overview.jpg" alt="Overview" width="80%" height="80%"></a>
+           <a href="./project_4"><img src="./project_4/overview.jpg" alt="Overview" width="70%" height="70%"></a>
            <br>Project 4
            <br><a href="./project_4" name="p4_code">(Matlab code)</a>
         </p>
