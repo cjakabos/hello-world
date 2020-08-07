@@ -18,7 +18,7 @@ All the results and extra certificates can be found here:
 ### Main Project
 Main project is a self driving car in virtual environment. Physical equivalent is under development.
       <p align="center">
-           <a href="./main_project"><img src="./images/view_main.png" alt="Overview" width="60%" height="60%"></a>
+           <a href="./main_project"><img src="./images/view_main.png" alt="Overview" width="50%" height="50%"></a>
            <br>Project 1
            <br><a href="./main_project" name="main project code">(code)</a>
       </p>
@@ -54,7 +54,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
         </p>
     </th>
         <th><p align="center">
-           <a href="./project_5"><img src="./project_5/images/solution.png" alt="Overview" width="60%" height="60%"></a>
+           <a href="./project_5"><img src="./project_5/images/solution.png" alt="Overview" width="100%" height="100%"></a>
            <br>Project 5
            <br><a href="./project_5" name="p5_code">(C++ code)</a>
         </p>
