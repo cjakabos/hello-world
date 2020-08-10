@@ -48,6 +48,7 @@ services:
     image: opendlv-perception
     network_mode: "host"
     ipc: "host"
-    network_mode: "host"
     volumes:
       - /tmp/:/tmp
+    environment:
+      - DISPLAY=${DISPLAY}
