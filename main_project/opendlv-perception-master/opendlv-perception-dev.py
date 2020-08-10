@@ -118,8 +118,8 @@ while True:
     elif (intersection == False):
         conesAndCar, kiwiDistanceX, kiwiDistanceY = getKiwiCar(cones, True, 0, 0)
 
-    #cv.imshow("conesAndCar", conesAndCar)
-    #cv.imshow("cones", cones)
+    cv.imshow("conesAndCar", conesAndCar)
+    cv.imshow("conesOnly", cones)
     #print("kiwiDistanceX", kiwiDistanceX)
     #print("kiwiDistanceY", kiwiDistanceY)
 
