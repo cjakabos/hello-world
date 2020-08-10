@@ -3,18 +3,18 @@
 Ubuntu  18.04.4 LTS 64bit (Works fine on VirtualBox in Windows environment)
 
 #### Get the latest system and the common tools
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install build-essential cmake software-properties-common curl
+  sudo apt-get update
+  sudo apt-get upgrade
+  sudo apt-get install build-essential cmake software-properties-common curl
 
 #### Install licluon for the messages between the microservices: https://github.com/chrberger/libcluon
-sudo add-apt-repository -y ppa:chrberger/libcluon
-sudo apt-get update
-sudo apt-get install libcluon
+  sudo add-apt-repository -y ppa:chrberger/libcluon
+  sudo apt-get update
+  sudo apt-get install libcluon
 
 #### Install Docker
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add
+  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 sudo apt-get update
 sudo apt-get install docker-ce
 sudo usermod -aG docker $USER
