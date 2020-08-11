@@ -75,7 +75,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
-#### [Project 2](project_2)
+#### [Project 22](project_2)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
