@@ -36,6 +36,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
         <th><p align="center">
            <a href="./project_2"><img src="./project_2/overview.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Project 2
+           <br>Cubature Kalman Filter
            <br><a href="./project_2" name="p2_code">(Matlab code)</a>
         </p>
     </th>
@@ -75,7 +76,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
-#### [Project 22](project_2)
+#### [Project 2](project_2)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
