@@ -58,14 +58,14 @@ Main project is a self driving car in virtual environment. Physical equivalent i
         </p>
     </th>
         <th><p align="center">
-           <a href="./project_5"><img src="./project_5/images/Project5.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="./project_5"><img src="./project_5/images/Project5.gif" alt="Overview" width="70%" height="70%"></a>
            <br>Project 5
            <br>Path planning
            <br><a href="./project_5" name="p5_code">(C++/OpenCV code)</a>
         </p>
     </th>
         <th><p align="center">
-           <a href="./project_6"><img src="./project_6/images/Project6.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="./project_6"><img src="./project_6/images/Project6.gif" alt="Overview" width="70%" height="70%"></a>
            <br>Project 6
            <br>Behviour based robotics
            <br><a href="./project_6" name="p6_code">(code)</a>
