@@ -30,6 +30,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
       <p align="center">
            <a href="./project_1"><img src="./project_1/overview.gif" alt="Overview" width="70%" height="70%"></a>
            <br>Project 1
+           <br>Kalman filter
            <br><a href="./project_1" name="p1_code">(Matlab code)</a>
       </p>
     </th>
@@ -43,6 +44,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
         <th><p align="center">
            <a href="./project_3"><img src="./project_3/overview.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Project 3
+           <br>Particle filter
            <br><a href="./project_3" name="p3_code">(Matlab code)</a>
         </p>
     </th>
@@ -51,18 +53,21 @@ Main project is a self driving car in virtual environment. Physical equivalent i
         <th><p align="center">
            <a href="./project_4"><img src="./project_4/overview.jpg" alt="Overview" width="70%" height="70%"></a>
            <br>Project 4
+           <br>Driveline control
            <br><a href="./project_4" name="p4_code">(Matlab code)</a>
         </p>
     </th>
         <th><p align="center">
            <a href="./project_5"><img src="./project_5/images/solution.png" alt="Overview" width="100%" height="100%"></a>
            <br>Project 5
+           <br>Path planning
            <br><a href="./project_5" name="p5_code">(C++/OpenCV code)</a>
         </p>
     </th>
         <th><p align="center">
            <a href="./project_6"><img src="./project_6/img/overview.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Project 6
+           <br>Behviour based robotics
            <br><a href="./project_6" name="p6_code">(code)</a>
         </p>
     </th>
