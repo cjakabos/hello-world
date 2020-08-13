@@ -61,8 +61,8 @@ The logic of the robot follows: survival, then the main task cutting grass, then
 
 ##  Running the project
 The solution is tme290-lawnmower-csaba.cpp
-#### First terminal
-     go to project root folder
+#### First terminal project root folder
+
      docker build -f Dockerfile.amd64 -t cjakabos/tme290-lawnmower-csaba .
 
      docker run -ti --rm --net=host -e COLUMNS=$COLUMNS -e LINES=$LINES -e TERM=$TERM olbender/tme290-grass-simulator-amd64:v0.0.5 tme290-sim-grass --cid=111 --time-limit=0      --dt=0.0 –verbose
