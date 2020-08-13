@@ -7,7 +7,7 @@ In this project the program controls a lawnmower robot to cut grass, in a way th
 
    The simulation works according to:
 
-   The robot can move around in a 40x40 grid, where each grid cell keeps the grass length as a value [0,1]. The initial values are 1.0. The robot starts at (0,0),    where also the charging station is located. No grass will grow at the charging station.
+ - **The robot can move around in a 40x40 grid, where each grid cell keeps the grass length as a value [0,1]. The initial values are 1.0. The robot starts at (0,0),    where also the charging station is located. No grass will grow at the charging station.
 
    From position (0, 20) to (29, 20) there is a wall that cannot be moved through. There is no grass growing in the cells occupied by the wall.
 
