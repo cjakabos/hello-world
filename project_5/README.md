@@ -61,7 +61,7 @@ The logic of the robot follows: survival, then the main task cutting grass, then
 
 ##  Running the project
 The solution is tme290-lawnmower-csaba.cpp
-#### First terminal project root folder
+#### First terminal project root folder, make window larger to see the whole grass field
 
      docker build -f Dockerfile.amd64 -t cjakabos/tme290-lawnmower-csaba .
 
