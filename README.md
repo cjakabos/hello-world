@@ -36,22 +36,14 @@ Main project is a self driving car in virtual environment. Physical equivalent i
 
 <table style="width:100%">
   <tr>
-    <th>
-      <p align="center">
-           <a href="./project_1"><img src="./project_1/overview.gif" alt="Overview" width="70%" height="70%"></a>
-           <br>Project 1
-           <br>Kalman filter
-           <br><a href="./project_1" name="p1_code">(Matlab code)</a>
-      </p>
-    </th>
-        <th><p align="center">
+    <th><p align="center">
            <a href="./project_2"><img src="./project_2/overview.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Project 2
            <br>Cubature Kalman Filter
            <br><a href="./project_2" name="p2_code">(Matlab code)</a>
         </p>
     </th>
-        <th><p align="center">
+    <th><p align="center">
            <a href="./project_3"><img src="./project_3/overview.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Project 3
            <br>Particle filter
@@ -60,23 +52,16 @@ Main project is a self driving car in virtual environment. Physical equivalent i
     </th>
   </tr>
   <tr>
-        <th><p align="center">
-           <a href="./project_4"><img src="./project_4/overview.jpg" alt="Overview" width="70%" height="70%"></a>
-           <br>Project 4
-           <br>Driveline control
-           <br><a href="./project_4" name="p4_code">(Matlab code)</a>
-        </p>
-    </th>
-        <th><p align="center">
+    <th><p align="center">
            <a href="./project_5"><img src="./project_5/images/Project5.gif" alt="Overview" width="70%" height="70%"></a>
-           <br>Project 5
+           <br>Project 4
            <br>Path planning
            <br><a href="./project_5" name="p5_code">(C++/OpenCV code)</a>
         </p>
     </th>
-        <th><p align="center">
+    <th><p align="center">
            <a href="./project_6"><img src="./project_6/images/Project6.gif" alt="Overview" width="90%" height="90%"></a>
-           <br>Project 6
+           <br>Project 5
            <br>Behviour based robotics
            <br><a href="./project_6" name="p6_code">(code)</a>
         </p>
@@ -87,7 +72,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
 --- 
 ## Table of Contents
 
-#### [Project 1](project_1)
+#### [Main Project](main_project)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
@@ -99,14 +84,10 @@ Main project is a self driving car in virtual environment. Physical equivalent i
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
 
-#### [Project 4](project_4)
+#### [Project 4](project_5)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
-#### [Project 5](project_5)
- - **Summary:** Summary test.
- - **Keywords:** Keywords test.
- 
-#### [Project 6](project_6)
+#### [Project 5](project_6)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
