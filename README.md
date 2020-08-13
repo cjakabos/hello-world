@@ -6,7 +6,7 @@ Hope this might be useful to someone! :-)
 
 All the results and extra certificates can be found here:
 
-[edX Micromaster Program](https://credentials.edx.org/records/programs/shared/aeb398577a5c4941aaafc6133845c9d2/)
+- [edX Micromaster Program](https://credentials.edx.org/records/programs/shared/aeb398577a5c4941aaafc6133845c9d2/)
 
 [Autonomous robots - Main project (bottom of page 1)](https://www.student.ladok.se/student/verifiera/intyg/19890130-6475/J16M02CIK4)
 
