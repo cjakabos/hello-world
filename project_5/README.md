@@ -19,7 +19,8 @@ In this project the program controls a lawnmower robot to cut grass, in a way th
 
  - For each move, the robots batteries will drain slightly, and if staying put in a grid cell other than the charging station there will be a larger drainage. If    the batteries are depleted, the robot can not be recovered.
  
-##  Behaviour-based robotics (BBR) solution (https://en.wikipedia.org/wiki/Behavior-based_robotics)
+##  Behaviour-based robotics (BBR) solution
+https://en.wikipedia.org/wiki/Behavior-based_robotics
 In general, when we behaviour-based solutions the behaviors of the robot should be well defined, well described, and well organized (clear conditions between behaviors). Note that the BBR pattern requires you to define isolated behavioural blocks that contains and isolates atomic actions
 The logic of the robot follows: survival, then the main task cutting grass, then moving and getting new information, if needed. The behaviour blocks are the following:
 
