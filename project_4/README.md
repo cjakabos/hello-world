@@ -25,10 +25,10 @@ Thus the ground steering δ is calculated (k was chosen to 1.0 after some tuning
 
 The solution is opendlv-logic-pathfollower.cpp and runs with the following commands:
 
-go to project root folder
+     go to project root folder
 
-xhost +
+     xhost +
 
-docker build -f Dockerfile -t opendlv-logic-pathfollower-kiwi .
+     docker build -f Dockerfile -t opendlv-logic-pathfollower-kiwi .
 
-docker-compose -f simulate-kiwi.yml up
+     docker-compose -f simulate-kiwi.yml up
