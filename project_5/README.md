@@ -26,7 +26,7 @@ The logic of the robot follows: survival, then the main task cutting grass, then
 
 2.	Else if: battery level is low, go home (when out in the field)
 
- - If not at edge of map, then go
+    - If not at edge of map, then go
 
 i.	If: below but not next to wall, go diagonal right up
 
