@@ -8,15 +8,15 @@ All the results and extra certificates can be found here:
 
 - [edX Micromaster Program](https://credentials.edx.org/records/programs/shared/aeb398577a5c4941aaafc6133845c9d2/)
 
-[Autonomous robots - Main project (bottom of page 1)](https://www.student.ladok.se/student/verifiera/intyg/19890130-6475/J16M02CIK4)
+- [Main project: Autonomous robots (bottom of page 1)](https://www.student.ladok.se/student/verifiera/intyg/19890130-6475/J16M02CIK4)
 
-[Robotics: Vision Intelligence and Machine Learning - certificate by University of Pennsylvania](https://courses.edx.org/certificates/cebbf84bc3d549bca3e86871f49b7917)
+- [Robotics: Vision Intelligence and Machine Learning - certificate by University of Pennsylvania](https://courses.edx.org/certificates/cebbf84bc3d549bca3e86871f49b7917)
 
-[Intermediate C++ - certificate by Microsoft](https://courses.edx.org/certificates/daf8897c283c43f6a635eb8228dff1dc)
+- [Intermediate C++ - certificate by Microsoft](https://courses.edx.org/certificates/daf8897c283c43f6a635eb8228dff1dc)
 
-[Advanced C++ - certificate by Microsoft](https://courses.edx.org/certificates/d7c3c0aea54d4a86971d8b4652822af0)
+- [Advanced C++ - certificate by Microsoft](https://courses.edx.org/certificates/d7c3c0aea54d4a86971d8b4652822af0)
 
-Embedded Systems (3 parts) by The University of Texas:
+- Embedded Systems (3 parts) by The University of Texas:
 
 [Microcontroller Input/Output](https://courses.edx.org/certificates/45a2dae1257b4789b444b585c6c6ba1f)
 
