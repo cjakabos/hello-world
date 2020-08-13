@@ -56,14 +56,14 @@ Main project is a self driving car in virtual environment. Physical equivalent i
            <a href="./project_5"><img src="./project_5/images/Project5.gif" alt="Overview" width="80%" height="80%"></a>
            <br>Project 4
            <br>Path planning
-           <br><a href="./project_5" name="p5_code">(C++/OpenCV code)</a>
+           <br><a href="./project_4" name="p5_code">(C++/OpenCV code)</a>
         </p>
     </th>
     <th><p align="center">
            <a href="./project_6"><img src="./project_6/images/Project6.gif" alt="Overview" width="90%" height="90%"></a>
            <br>Project 5
            <br>Behaviour based robotics
-           <br><a href="./project_6" name="p6_code">(code)</a>
+           <br><a href="./project_5" name="p6_code">(code)</a>
         </p>
     </th>
   </tr>
@@ -84,10 +84,10 @@ Main project is a self driving car in virtual environment. Physical equivalent i
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
 
-#### [Project 4](project_5)
+#### [Project 4](project_4)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
  
-#### [Project 5](project_6)
+#### [Project 5](project_5)
  - **Summary:** Summary test.
  - **Keywords:** Keywords test.
