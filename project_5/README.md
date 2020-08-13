@@ -30,27 +30,27 @@ The logic of the robot follows: survival, then the main task cutting grass, then
 
       - If: below but not next to wall, go diagonal right up
 
-ii.	Else if: below and next to wall, go right
+      - Else if: below and next to wall, go right
 
-iii.	Else if: below and end line of wall, go up
+      - Else if: below and end line of wall, go up
 
-iv.	Else: go diagonal left up
+      - Else: go diagonal left up
 
-(b)	Else if at edge in Y, go left
+    - Else if at edge in Y, go left
 
-(c)	Else if edge in X, go up
+    - Else if edge in X, go up
 
 3.	Else if: grass under robot is over threshold and no rain, cut grass. 
 
 4.	Else if: sensor input from nearby cell, if over threshold, move. Follow clockwise order from topright cell, as we come from top/left direction (should be clear already).
-(a)	If topright cell has grass over threshold, move there
-(b)	If right cell has grass over threshold, move there
-(c)	If downright cell has grass over threshold, move there
-(d)	If down cell has grass over threshold, move there
-(e)	If downleft cell has grass over threshold, move there
-(f)	If left cell has grass over threshold, move there
-(g)	If topleft cell has grass over threshold, move there
-(h)	If top cell has grass over threshold, move there
+    - If topright cell has grass over threshold, move there
+    - If right cell has grass over threshold, move there
+    - If downright cell has grass over threshold, move there
+    - If down cell has grass over threshold, move there
+    - If downleft cell has grass over threshold, move there
+    - If left cell has grass over threshold, move there
+    - If topleft cell has grass over threshold, move there
+    - If top cell has grass over threshold, move there
 
 5.	Else if: if no sensor input and at corner of wall and map, go right and follow the wall to be able to find areas with higher grass
 
