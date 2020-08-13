@@ -25,12 +25,19 @@ The logic of the robot follows: survival, then the main task cutting grass, then
 1.	If: battery not full, do not leave charging station
 
 2.	Else if: battery level is low, go home (when out in the field)
+
 (a)	If not at edge of map, then go
+
 i.	If: below but not next to wall, go diagonal right up
+
 ii.	Else if: below and next to wall, go right
+
 iii.	Else if: below and end line of wall, go up
+
 iv.	Else: go diagonal left up
+
 (b)	Else if at edge in Y, go left
+
 (c)	Else if edge in X, go up
 
 3.	Else if: grass under robot is over threshold and no rain, cut grass. 
