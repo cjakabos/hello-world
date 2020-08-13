@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  lawnmower:
+      image: lawnmower
+      network_mode: "host"
+      command: "/usr/bin/lawnmower --cid=111 --verbose"
