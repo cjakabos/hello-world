@@ -1,4 +1,4 @@
-<p align="center"> # Portfolio projects in robotics and ADAS </p>
+# <p align="center">  Portfolio projects in robotics and ADAS </p>
 
 In this repository I will share the **source code** of all the projects of my recent courses.
 
