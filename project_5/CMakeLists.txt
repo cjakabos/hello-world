@@ -86,5 +86,3 @@ target_link_libraries(${PROJECT_NAME} ${LIBRARIES})
 ################################################################################
 # Install executable.
 install(TARGETS ${PROJECT_NAME} DESTINATION bin COMPONENT ${PROJECT_NAME})
-install(TARGETS ${PROJECT_NAME}-optimized DESTINATION bin COMPONENT ${PROJECT_NAME}-optimized)
-install(TARGETS ${PROJECT_NAME}-trainer DESTINATION bin COMPONENT ${PROJECT_NAME}-trainer)
