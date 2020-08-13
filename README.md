@@ -62,7 +62,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
     <th><p align="center">
            <a href="./project_6"><img src="./project_6/images/Project6.gif" alt="Overview" width="90%" height="90%"></a>
            <br>Project 5
-           <br>Behviour based robotics
+           <br>Behaviour based robotics
            <br><a href="./project_6" name="p6_code">(code)</a>
         </p>
     </th>
