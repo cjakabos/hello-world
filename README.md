@@ -1,8 +1,10 @@
 # <p align="center">  Portfolio projects in robotics and ADAS </p>
 
-In this repository I will share the **source code** of all the projects of my recent courses.
+In this repository share the **source code** of some projects of my recent courses.
 
-Hope this might be useful to someone! :-) Click the pictures to see the details of the projects. The certificates are at the bottom of this page.
+Hope this might be useful to someone! :-) 
+
+Click the pictures to see the details of the projects. The certificates are at the bottom of this page.
 
 ## Overview
 ### Main Project
@@ -12,6 +14,7 @@ Main project is a self driving car in virtual environment. Physical equivalent i
            <br>Main project - self driving car
            <br><a href="./main_project" name="Code in C++ and Python/OpenCV">(Code in C++ and Python/OpenCV)</a>
       </p>
+      
 ### Smaller projects
 
 <table style="width:100%">
