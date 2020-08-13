@@ -10,7 +10,7 @@ Once the end point is reached, the process stops (or gives message if end is not
 When the path is found it is plotted together with the grids of wall (as noted before, at grid border wall uses both neighbors grids, thus the intersection of the shortest path and grids sometimes, but in reality the wall is away from the edge of grid), see “Grid map” window. Blue dot is the start position, black dot is the end and the path is the green dots.
 
 <p align="center">
-  <a href="./images/Project5.gif"><img src="./images/Project5.gif" alt="Overview" width="80%" height="80%"></a>
+  <a href="./images/Project4.gif"><img src="./images/Project4.gif" alt="Overview" width="80%" height="80%"></a>
 </p>
 
 At the part II of the script the control is done based on the calculated shortest path from part I. First, the nearest node on the path to the kiwi position is calculated, then the next node on the path is set as an aim point for  “Simplest aim point model” from the lecture material:
