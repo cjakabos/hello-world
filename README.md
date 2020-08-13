@@ -18,7 +18,7 @@ All the results and extra certificates can be found here:
 ### Main Project
 Main project is a self driving car in virtual environment. Physical equivalent is under development.
       <p align="center">
-           <a href="./main_project"><img src="./images/view_main.png" alt="Overview" width="50%" height="50%"></a>
+           <a href="./main_project"><img src="./images/main_simulation.gif" alt="Overview" width="70%" height="70%"></a>
            <br>Main project - self driving car
            <br><a href="./main_project" name="Code in C++ and Python/OpenCV">(Code in C++ and Python/OpenCV)</a>
       </p>
