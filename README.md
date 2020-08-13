@@ -12,10 +12,6 @@ All the results and extra certificates can be found here:
 
 - [Robotics: Vision Intelligence and Machine Learning - certificate by University of Pennsylvania](https://courses.edx.org/certificates/cebbf84bc3d549bca3e86871f49b7917)
 
-- [Intermediate C++ - certificate by Microsoft](https://courses.edx.org/certificates/daf8897c283c43f6a635eb8228dff1dc)
-
-- [Advanced C++ - certificate by Microsoft](https://courses.edx.org/certificates/d7c3c0aea54d4a86971d8b4652822af0)
-
 - Embedded Systems (3 parts) by The University of Texas:
 
   - [Microcontroller Input/Output](https://courses.edx.org/certificates/45a2dae1257b4789b444b585c6c6ba1f)
@@ -23,6 +19,11 @@ All the results and extra certificates can be found here:
   - [Multi-Threaded Interfacing](https://courses.edx.org/certificates/a93d7756388944cd88f1a6acd78e0b12)
 
   - [Real-Time Bluetooth Networks](https://courses.edx.org/certificates/4ad6f76b46a4430cb8e35aea61366bbe)
+
+- [Intermediate C++ - certificate by Microsoft](https://courses.edx.org/certificates/daf8897c283c43f6a635eb8228dff1dc)
+
+- [Advanced C++ - certificate by Microsoft](https://courses.edx.org/certificates/d7c3c0aea54d4a86971d8b4652822af0)
+
 
 ## Overview
 ### Main Project
