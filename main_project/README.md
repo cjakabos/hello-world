@@ -127,3 +127,14 @@ The virtual test cases were developed in a way to be able to test all scenarios 
 </p>
 
 ### 5 Running the project
+Change directory to each separate folder:
+
+     docker build -f Dockerfile.amd64 -t opendlv-logic-steering-control .
+     docker build -f Dockerfile.amd64 -t opendlv-logic-pedal-control .
+     docker build -t opendlv-perception .
+     
+Change directory to run-project for the .yml files in virtual testing:
+
+     docker-compose -f simulation-kiwi-intersection.yml up
+     docker-compose -f simulation-kiwi-intersection-two.yml up
+     docker-compose -f simulation-kiwi-intersection-three.yml up
