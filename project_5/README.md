@@ -60,7 +60,7 @@ The logic of the robot follows: survival, then the main task cutting grass, then
 6.	Else: no sensor input from nearby cell, get sensor data
 
 ##  Running the project
-The solution is tme290-lawnmower-csaba.cpp
+The main solution is lawnmower.cpp
 #### First terminal project root folder, make window larger to see the whole grass field
 
      docker build -f Dockerfile.amd64 -t cjakabos/tme290-lawnmower-csaba .
