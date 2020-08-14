@@ -59,7 +59,7 @@ All the results from the MicroMasters and extra certificates:
 
 - [edX Micromaster Program](https://credentials.edx.org/records/programs/shared/aeb398577a5c4941aaafc6133845c9d2/)
 
-- [Main project: Autonomous robots (bottom of page 1)](https://www.student.ladok.se/student/verifiera/intyg/19890130-6475/J16M02CIK4)
+- [Main project: Autonomous robot course (bottom of page 1)](https://www.student.ladok.se/student/verifiera/intyg/19890130-6475/J16M02CIK4)
 
 - [Robotics: Vision Intelligence and Machine Learning - certificate by University of Pennsylvania](https://courses.edx.org/certificates/cebbf84bc3d549bca3e86871f49b7917)
 
