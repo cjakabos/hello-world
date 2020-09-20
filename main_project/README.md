@@ -131,7 +131,7 @@ Change directory to each separate folder:
 
      docker build -f Dockerfile.amd64 -t opendlv-logic-steering-control .
      docker build -f Dockerfile.amd64 -t opendlv-logic-pedal-control .
-     docker build -t opendlv-perception .
+     docker build -t opendlv-perception-dev .
      
 Change directory to run-project for the .yml files in virtual testing:
 
