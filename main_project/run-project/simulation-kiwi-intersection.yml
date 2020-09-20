@@ -45,10 +45,11 @@ services:
       - PLAYBACK_OD4SESSION_CID=253
 
   opendlv-perception:
-    image: opendlv-perception
+    image: opendlv-perception-dev
     network_mode: "host"
     ipc: "host"
     volumes:
       - /tmp/:/tmp
     environment:
-      - DISPLAY=${DISPLAY}
+      - DISPLAY=$    
+    command: "/usr/bin/opendlv-perception-dev --cid=111 --name=img.argb --width=1280 --height=720 --verbose"{DISPLAY}
