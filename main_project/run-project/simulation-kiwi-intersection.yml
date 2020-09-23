@@ -51,5 +51,5 @@ services:
     volumes:
       - /tmp/:/tmp
     environment:
-      - DISPLAY=$    
-    command: "/usr/bin/opendlv-perception-dev --cid=111 --name=img.argb --width=1280 --height=720 --verbose"{DISPLAY}
+      - DISPLAY=${DISPLAY}   
+    command: "/usr/bin/opendlv-perception-dev --cid=111 --name=img.argb --width=1280 --height=720 --verbose"
