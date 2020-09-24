@@ -135,6 +135,7 @@ Change directory to each separate folder:
      
 Change directory to run-project for the .yml files in virtual testing:
 
+     xhost + (this has to be run once every boot up)
      docker-compose -f simulation-kiwi-intersection.yml up
      docker-compose -f simulation-kiwi-intersection-two.yml up
      docker-compose -f simulation-kiwi-intersection-three.yml up
